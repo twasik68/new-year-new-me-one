@@ -119,7 +119,7 @@
   background-repeat: no-repeat;
   background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0) 100%);
   border-radius: 10px;
-  background-image: url(/images/gradient2.png) url(/images/watch.png);
+  background-image: url(/images/gradient2.png), url(/images/watch.png);
   margin: 70px 90px;
   background-size: cover;
 }
